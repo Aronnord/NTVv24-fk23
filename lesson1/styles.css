@@ -1,0 +1,44 @@
+html {
+    font-size: 24px;
+}
+
+.goodbye {
+    color: blue;
+
+}
+
+.third {
+    color: purple;
+}
+
+.list {
+    font-size: 14px;
+}
+
+li {
+    font-size: 18px;
+}
+
+.first {
+    font-size: 1em;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+}
+
+.imageContainer {
+    height: 150px;
+    width: 150px;
+    border-radius: 75px;
+    overflow: hidden;
+}
+
+.foo {
+    display: flex;
+    justify-content: space-between;
+}
+
+#bar {}
